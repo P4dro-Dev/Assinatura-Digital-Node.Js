@@ -1,2 +1,2 @@
-Verificad
+Verificado
 
