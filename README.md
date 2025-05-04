@@ -1,2 +1,2 @@
-Verificador de segu
+Verificador de seg
 
