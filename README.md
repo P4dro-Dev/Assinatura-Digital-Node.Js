@@ -1,2 +1,1 @@
-Verificador de se
-
+Verificador de s
