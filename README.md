@@ -1,2 +1,2 @@
-Verificador de seguan
+Verificador de seguran
 
