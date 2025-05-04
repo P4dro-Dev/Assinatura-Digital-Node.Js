@@ -1,2 +1,2 @@
-Verificador de segan
+Verificador de seguan
 
