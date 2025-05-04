@@ -1,2 +1,2 @@
-Verificador de seguranç
+Verificador de seguran
 
