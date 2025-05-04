@@ -1,2 +1,2 @@
-Verifi
+Verific
 
