@@ -1,2 +1,2 @@
-Verificador de segura
+Verificador de segur
 
