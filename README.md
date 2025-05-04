@@ -1,2 +1,2 @@
-Verificador d
+Verificador de
 
