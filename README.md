@@ -1,2 +1,2 @@
-Verificador de sega
+Verificador de segan
 
