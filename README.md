@@ -1,1 +1,1 @@
-Verificador de Assina
+Verificador de Assinat
