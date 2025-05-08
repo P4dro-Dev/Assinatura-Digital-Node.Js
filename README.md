@@ -1,1 +1,1 @@
-Verificador de A
+Verificador de As
