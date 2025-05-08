@@ -1,1 +1,1 @@
-Verificador de Assinaturas Digi
+Verificador de Assinaturas Digit
