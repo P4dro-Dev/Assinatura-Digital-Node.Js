@@ -1,1 +1,1 @@
-Verificador de Assinatu
+Verificador de Assinatur
